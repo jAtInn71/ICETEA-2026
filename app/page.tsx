@@ -65,7 +65,7 @@ export default function HomePage() {
                 Submit the Paper
               </Button>
             </Link>
-            <a href="#" target="_blank" rel="noopener">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrxK_gDjZViDhofrUlnJwpdZDEQxGNoo_78zi4EjYZJSXFNA/formResponse?pli=1" target="_blank" rel="noopener">
               <Button size="lg" className="bg-white text-blue-700 text-lg px-8 py-6 font-bold rounded-xl border-2 
                 border-blue-700 shadow-lg hover:bg-blue-50 hover:shadow-blue-200/50 hover:shadow-2xl 
                 hover:scale-110 hover:-translate-y-1 transition-all duration-300">
