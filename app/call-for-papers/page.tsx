@@ -58,7 +58,7 @@ export default function STPPage() {
           </ul>
         </div>
         <div className="text-center pt-6">
-          <Link href="/submission">
+          <Link href="https://cmt3.research.microsoft.com">
             <Button size="lg" className="bg-blue-900 text-white font-semibold shadow-lg hover:bg-green-600 hover:scale-105 transition-transform duration-200">Submit Article</Button>
           </Link>
         </div>
