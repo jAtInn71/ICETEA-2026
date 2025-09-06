@@ -19,7 +19,7 @@ const links = [
   { href: "/committees", label: "Committees" },
   //{ href: "/speakers", label: "Speakers" },
   { href: "/schedule", label: "Schedule" },
-  { href:"/acknowledgment" , lable: "Acknowledgement"}
+  { href: "/acknowledgment", label: "Acknowledgment" }, // Add this new line
   //{ href: "/contact", label: "Contact" },
 ]
 
@@ -46,7 +46,7 @@ export function SiteNavbar() {
             <span className="inline-block align-middle mr-2">
               <img 
                 src="https://setumadhavani-ldnja.wordpress.com/wp-content/uploads/2025/09/gemini_generated_image_3rjetk3rjetk3rje-removebg-preview.png" 
-                alt="ICETEA 2026" 
+                alt="ICETEA Conference" 
                 className="h-10 w-auto object-contain"
               />
             </span>
