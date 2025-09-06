@@ -19,6 +19,7 @@ const links = [
   { href: "/committees", label: "Committees" },
   //{ href: "/speakers", label: "Speakers" },
   { href: "/schedule", label: "Schedule" },
+  { href:"/acknowledgment" , lable: "Acknowledgement"}
   //{ href: "/contact", label: "Contact" },
 ]
 
@@ -45,12 +46,12 @@ export function SiteNavbar() {
             <span className="inline-block align-middle mr-2">
               <img 
                 src="https://setumadhavani-ldnja.wordpress.com/wp-content/uploads/2025/09/gemini_generated_image_3rjetk3rjetk3rje-removebg-preview.png" 
-                alt="ICETEA Conference" 
+                alt="ICETEA 2026" 
                 className="h-10 w-auto object-contain"
               />
             </span>
           </Link>
-          <span className="text-white font-bold text-lg tracking-wide">ICETEA Conference</span>
+          <span className="text-white font-bold text-lg tracking-wide">ICETEA 2026</span>
         </div>
         {/* Desktop nav */}
         <div className="hidden md:flex flex-row items-center gap-4 whitespace-nowrap">
