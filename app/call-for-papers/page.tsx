@@ -12,7 +12,7 @@ export default function STPPage() {
         <h1 className="text-3xl md:text-4xl font-bold text-center text-blue-900">Submit The Papers</h1>
         {/* Responsive Submit the Paper button after header */}
         <div className="flex justify-center mt-6 mb-8">
-          <Link href="/submission">
+          <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdrxK_gDjZViDhofrUlnJwpdZDEQxGNoo_78zi4EjYZJSXFNA/formResponse?pli=1">
             <Button
               size="lg"
               className="bg-gradient-to-r from-blue-600 to-teal-500 text-white text-lg px-8 py-6 font-bold rounded-xl \
