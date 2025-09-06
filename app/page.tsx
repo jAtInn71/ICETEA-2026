@@ -90,22 +90,22 @@ export default function HomePage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {/* Card 1 */}
           <div className="flex flex-col items-center bg-white rounded-xl shadow-lg border border-teal-200 p-4 hover:scale-105 hover:shadow-xl transition-all duration-300 animate-fade-in animate-delay-100">
-            <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80" alt="Sabarmati Ashram" className="w-full h-40 object-cover rounded-lg mb-2" />
+            <img src="https://setumadhavani-qrmyo.wordpress.com/wp-content/uploads/2025/09/download.jpeg" alt="Sabarmati Ashram" className="w-full h-40 object-cover rounded-lg mb-2" />
             <span className="font-semibold text-blue-900">Sabarmati Ashram</span>
           </div>
           {/* Card 2 */}
           <div className="flex flex-col items-center bg-white rounded-xl shadow-lg border border-blue-200 p-4 hover:scale-105 hover:shadow-xl transition-all duration-300 animate-fade-in animate-delay-200">
-            <img src="https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=600&q=80" alt="Ahmedabad Heritage" className="w-full h-40 object-cover rounded-lg mb-2" />
+            <img src="https://setumadhavani-qrmyo.wordpress.com/wp-content/uploads/2025/09/download.jpg" alt="Ahmedabad Heritage" className="w-full h-40 object-cover rounded-lg mb-2" />
             <span className="font-semibold text-blue-900">Ahmedabad Heritage</span>
           </div>
           {/* Card 3 */}
           <div className="flex flex-col items-center bg-white rounded-xl shadow-lg border border-teal-200 p-4 hover:scale-105 hover:shadow-xl transition-all duration-300 animate-fade-in animate-delay-300">
-            <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80" alt="Ahmedabad City" className="w-full h-40 object-cover rounded-lg mb-2" />
+            <img src="https://setumadhavani-qrmyo.wordpress.com/wp-content/uploads/2025/09/licensed-image.jpg" alt="Ahmedabad City" className="w-full h-40 object-cover rounded-lg mb-2" />
             <span className="font-semibold text-blue-900">Ahmedabad City</span>
           </div>
           {/* Card 4 */}
           <div className="flex flex-col items-center bg-white rounded-xl shadow-lg border border-blue-200 p-4 hover:scale-105 hover:shadow-xl transition-all duration-300 animate-fade-in animate-delay-400">
-            <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=600&q=80" alt="Ahmedabad Culture" className="w-full h-40 object-cover rounded-lg mb-2" />
+            <img src="https://setumadhavani-qrmyo.wordpress.com/wp-content/uploads/2025/09/download1.jpg" alt="Ahmedabad Culture" className="w-full h-40 object-cover rounded-lg mb-2" />
             <span className="font-semibold text-blue-900">Ahmedabad Culture</span>
           </div>
         </div>
