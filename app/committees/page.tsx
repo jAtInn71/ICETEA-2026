@@ -13,16 +13,16 @@ export default function CommitteePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             {/* Card 1 */}
             <div className="flex flex-col items-center text-center rounded-2xl p-6 bg-white shadow-xl border border-green-200 transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:border-blue-400">
-              <img src="/placeholder-user.jpg" alt="Dr. A. Sharma" className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-blue-200 transition-all duration-300 hover:border-green-400" />
-              <h3 className="font-bold text-lg text-blue-900 mb-1">Dr. A. Sharma</h3>
-              <p className="text-sm text-green-700 mb-1">Affiliation, Country</p>
+              <img src="https://in3700.wordpress.com/wp-content/uploads/2025/09/1620591758322.jpeg" alt="Dr. A. Sharma" className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-blue-200 transition-all duration-300 hover:border-green-400" />
+              <h3 className="font-bold text-lg text-blue-900 mb-1">Dr. Satvik Khara</h3>
+              <p className="text-sm text-green-700 mb-1">Dean, Collage of Technology</p>
              
             </div>
             {/* Card 2 */}
             <div className="flex flex-col items-center text-center rounded-2xl p-6 bg-white shadow-xl border border-green-200 transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:border-blue-400">
-              <img src="/placeholder-user.jpg" alt="Prof. B. Singh" className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-blue-200 transition-all duration-300 hover:border-green-400" />
-              <h3 className="font-bold text-lg text-blue-900 mb-1">Prof. B. Singh</h3>
-              <p className="text-sm text-green-700 mb-1">Affiliation, Country</p>
+              <img src="https://in3700.wordpress.com/wp-content/uploads/2025/09/1668676239088.jpeg" alt="Prof. B. Singh" className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-blue-200 transition-all duration-300 hover:border-green-400" />
+              <h3 className="font-bold text-lg text-blue-900 mb-1">Prof. Digant Parmar</h3>
+              <p className="text-sm text-green-700 mb-1">Assistant Professor, Collage of Technology</p>
              
             </div>
             {/* Card 3 */}
