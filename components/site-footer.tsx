@@ -14,7 +14,7 @@ export function SiteFooter() {
             <div className="bg-white/50 p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
               <p className="font-medium">Silver Oak University</p>
               <p>Nr. S.G Highway</p>
-              <p>Ahmedabad, Gujarat 380054</p>
+              <p>Ahmedabad, Gujarat 382481</p>
               <p className="mt-2">
                 <a href="mailto:contact@icetea2026.org" 
                    className="hover:underline hover:text-[#39B54A] flex items-center gap-2">
