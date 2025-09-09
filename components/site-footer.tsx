@@ -14,7 +14,7 @@ export function SiteFooter() {
             <div className="bg-white/50 p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
               <p className="font-medium">Silver Oak University</p>
               <p>Nr. S.G Highway</p>
-              <p>Ahmedabad, Gujarat, 382481</p>
+              <p>Ahmedabad, Gujarat 382481</p>
               <p className="mt-2">
                 <a href="mailto:contact@icetea2026.org" 
                    className="hover:underline hover:text-[#39B54A] flex items-center gap-2">
@@ -78,17 +78,17 @@ export function SiteFooter() {
             <div className="flex flex-col space-y-4">
               {[
                 {
-                  href: "https://www.instagram.com/silveroakuni/",
+                  href: "https://www.instagram.com/icetea2026/",
                   label: "Instagram",
                   icon: "M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zm0 1.5A4.25 4.25 0 0 0 3.5 7.75v8.5A4.25 4.25 0 0 0 7.75 20.5h8.5A4.25 4.25 0 0 0 20.5 16.25v-8.5A4.25 4.25 0 0 0 16.25 3.5h-8.5zm4.25 3.25a5.25 5.25 0 1 1 0 10.5 5.25 5.25 0 0 1 0-10.5zm0 1.5a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 0 0 0-7.5zm5.25.75a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"
                 },
                 {
-                  href: "https://www.linkedin.com/school/silveroakuni/",
+                  href: "https://www.linkedin.com/company/icetea2026",
                   label: "LinkedIn",
                   icon: "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
                 },
                 {
-                  href: "https://www.facebook.com/silveroakuni/",
+                  href: "https://www.facebook.com/share/19d69Uj9kc/",
                   label: "Facebook",
                   icon: "M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.877v-6.987H8.078v-2.89h2.36V9.845c0-2.337 1.393-3.629 3.523-3.629.992 0 2.031.177 2.031.177v2.23h-1.144c-1.127 0-1.477.7-1.477 1.418v1.704h2.516l-.402 2.89h-2.114V21.9C18.343 21.128 22 16.991 22 12z"
                 }
