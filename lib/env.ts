@@ -1,7 +1,7 @@
 export const hasSupabase =
-  Boolean(process.env.NEXT_PUBLIC_SUPABASE_URL) && Boolean(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
+  Boolean("https://byffwqbidexanyfkbdpp.supabase.co") && Boolean("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ5ZmZ3cWJpZGV4YW55ZmtiZHBwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcxNjYwNjEsImV4cCI6MjA3Mjc0MjA2MX0.4pyptef54FsaxmSUY5eSB9tyCE4MdNGZmYUkI4YJ408")
 
 export const envInfo = {
-  supabaseUrl: process.env.NEXT_PUBLIC_SUPABASE_URL,
-  supabaseAnonKey: process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,
+  supabaseUrl: "https://byffwqbidexanyfkbdpp.supabase.co",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ5ZmZ3cWJpZGV4YW55ZmtiZHBwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcxNjYwNjEsImV4cCI6MjA3Mjc0MjA2MX0.4pyptef54FsaxmSUY5eSB9tyCE4MdNGZmYUkI4YJ408",
 }
